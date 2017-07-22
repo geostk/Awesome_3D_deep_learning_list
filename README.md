@@ -14,3 +14,7 @@
 - [License](#license)
 
 - [Contributing](#contributing)
+
+<a name="tutorials"></a>
+# Tutorials
+[The Confluence of Geometry and Learning](http://bair.berkeley.edu/blog/2017/07/11/confluence-of-geometry-and-learning/)
