@@ -1,1 +1,1 @@
-# Awesome_3D_deep_learning_list
+# Awesome 3D deep learning list
