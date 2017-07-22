@@ -17,5 +17,6 @@
 
 <a name="tutorials"></a>
 # Tutorials
-[The Confluence of Geometry and Learning](http://bair.berkeley.edu/blog/2017/07/11/confluence-of-geometry-and-learning/)
-[Introduction to 3D Deep Learning](http://ai.stanford.edu/~haosu/slides/IntroTo3DDL.pdf)
+[The Confluence of Geometry and Learning](http://bair.berkeley.edu/blog/2017/07/11/confluence-of-geometry-and-learning/).
+
+[Introduction to 3D Deep Learning](http://ai.stanford.edu/~haosu/slides/IntroTo3DDL.pdf).
