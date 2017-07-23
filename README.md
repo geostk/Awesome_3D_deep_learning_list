@@ -6,7 +6,6 @@
 
 - [Papers](#papers)
 
-
 - [OpenSource software ressources](#opensource)
 
 - [Datasets with ground truth - Reproducible research](#dataset)
@@ -23,4 +22,16 @@
 
 <a name="papers"></a>
 # Papers
+
+<a name="opensource"></a>
+# OpenSource software ressources
+
+<a name="dataset"></a>
+# Datasets with ground truth - Reproducible research
+
+<a name="license"></a>
+# License
+
+<a name="contributing"></a>
+# Contributing
 
